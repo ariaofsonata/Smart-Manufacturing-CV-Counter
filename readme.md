@@ -14,7 +14,7 @@
 
 | 追蹤頭部與手部動作 | 以手指捏合進行計數 |
 | :---: | :---: |
-| ![Track Demo](videos/Face vs Hand Detection.mp4) | ![Count Demo](videos/Hand Count.mp4) |
+| ![Track Demo](videos/Face_vs_Hand_Detection.mp4) | ![Count Demo](videos/Hand_Count.mp4) |
 
 ## 🛠️ 技術亮點與挑戰克服
 
