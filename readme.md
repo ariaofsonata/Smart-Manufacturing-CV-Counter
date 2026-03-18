@@ -14,7 +14,7 @@
 
 | 追蹤頭部與手部動作 | 以手指捏合進行計數 |
 | :---: | :---: |
-| ![Track Demo](videos/Face_vs_Hand_Detection.mp4) | ![Count Demo](videos/Hand_Count.mp4) |
+| ![Track Demo](videos/Face vs Hand Detection.mp4) | ![Count Demo](videos/Hand Count.mp4) |
 
 ## 🛠️ 技術亮點與挑戰克服
 
@@ -37,12 +37,17 @@
 
 2. **建立虛擬環境與安裝依賴**:
     '''bash
+
     python -m venv .venv
+
     .\.venv\Scripts\activate
+
     pip install -r requirements.txt
 
 3. **執行程式**:
+
     計數功能: python hand_count_opencv.py
+
     追蹤功能: python track_head_hand_opencv.py
 
 👨‍💻 作者
