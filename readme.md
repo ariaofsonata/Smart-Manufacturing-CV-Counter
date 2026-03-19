@@ -37,12 +37,9 @@
 
 2. **建立虛擬環境與安裝依賴**:
 
-    '''bash
-
+    ```bash
     python -m venv .venv
-
     .\.venv\Scripts\activate
-
     pip install -r requirements.txt
 
 3. **執行程式**:
