@@ -32,10 +32,11 @@
 
 1. **複製專案**:
    ```bash
-   git clone [https://github.com/ariaofsonata/Smart-Manufacturing-CV-Counter.git](https://github.com/ariaofsonata/Smart-Manufacturing-CV-Counter.git)
+   git clone https://github.com/ariaofsonata/Smart-Manufacturing-CV-Counter.git
    cd Smart-Manufacturing-CV-Counter
 
 2. **建立虛擬環境與安裝依賴**:
+
     '''bash
 
     python -m venv .venv
